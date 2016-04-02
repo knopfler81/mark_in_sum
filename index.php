@@ -54,7 +54,7 @@
       </a>
       <h4> Official Mark Knopfler Website</h4>
         <p>Visit the very official MK website, tour dates, shop, annoucements...</p>
-        <button class="btn btn-primary"><a href="www.markknopfler.com">Visit</a></button>
+        <a href="http://www.markknopfler.com" class="btn btn-primary">Visit</a>
     </div>
 
      <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 under_sections">
@@ -62,7 +62,7 @@
       </a>
       <h4> Guy Fletcher</h4>
         <p> A very intersting Website to keep in your favorites. Guy Fletcher runs here a forum, studio and tour diaries ! Have a look !</p>
-        <button class="btn btn-primary"><a href="http://www.guyfletcher.co.uk">Visit</a></button>
+        <a href="http://www.guyfletcher.co.uk" class="btn btn-primary">Visit</a>
     </div>
 
     <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 under_sections">
@@ -72,7 +72,7 @@
     <h4> A Mark In Time Forum</h4>
       <p> A very nice place to exchange with fans from all other the world! This a non official forum.</p>
       <p> Be cool and do not moan ^</p>
-      <button class="btn btn-primary"><a href="http://www.amarkintime.org/forum/">Visit</a></button>
+      <a href="http://www.amarkintime.org/forum/" class="btn btn-primary">Visit</a>
     </div>
 
 

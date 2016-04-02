@@ -19,8 +19,7 @@
     <img src="imgs/LeGrandJournal/lgj1.png" alt="Le Grand Journal"/>
     <div class="row">
       <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-        <button class="btn btn-primary "><a href="otherevents/LeGrandJournal.php">Read</a></button>
-
+        <a href="otherevents/LeGrandJournal.php" class="btn btn-primary">Read</a>
       </div>
     </div>
   </div>
@@ -32,8 +31,7 @@
     <img src="imgs/hayonwye2007/hayonwye2007-1.jpg" alt="Hay On Wye 2007"/>
     <div class="row">
       <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-        <button class="btn btn-primary "><a href="otherevents/HayOnWye2007.php">Read</a></button>
-
+        <a href="otherevents/HayOnWye2007.php" class="btn btn-primary">Read</a>
       </div>
     </div>
   </div>
@@ -46,8 +44,7 @@
     <img src="imgs/lemans2006/lemans2006-1.jpg" alt="Le Mans 2006"/>
     <div class="row">
       <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-        <button class="btn btn-primary "><a href="otherevents/LeMans2006.php">Read</a></button>
-
+        <a href="otherevents/LeMans2006.php" class="btn btn-primary">Read</a>
       </div>
     </div>
   </div>
@@ -62,8 +59,7 @@
     <img src="imgs/lemans2004/lemans2004-1.jpg" alt="Le Mans 2004"/>
     <div class="row">
       <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-        <button class="btn btn-primary "><a href="otherevents/LeMans2004.php">Read</a></button>
-
+        <a href="otherevents/LeMans2004.php" class="btn btn-primary">Read</a>
       </div>
     </div>
   </div>

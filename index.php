@@ -26,21 +26,21 @@
       <img src="imgs/live.png" alt="Concerts">
       <h3>Concerts</h3>
       <p> The die hard fan that I am trie to follow Mark as many time as possible. In this section you will find my notes and pictures from 1996 until 2015</p>
-      <button class="btn btn-primary"><a href="/concerts.php">Visit</a></button>
+      <a href="/concerts.php" class="btn btn-primary" >Visit</a>
     </div>
 
      <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 under_sections">
        <img src="imgs/calendar.jpg" alt="Calendars">
       <h3>Calendars</h3>
       <p> Since 2005 I am creating Calendars for fans, you can see them all on my website and download them for free. Since 2014, I'm trying to raise fund for a cause dear to my heart. You will find more informations in this section.</p>
-      <button class="btn btn-primary"><a href="/calendars.php">Visit</a></button>
+      <a href="/calendars.php" class="btn btn-primary">Visit</a>
     </div>
 
     <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 under_sections">
       <img src="imgs/events.png" alt="Events">
       <h3>Other Events</h3>
       <p> I got lucky a couple of times to meet Mark or to attend special events.</p>
-      <button class="btn btn-primary"><a href="/otherevents.php">Visit</a></button>
+      <a href="/otherevents.php" class="btn btn-primary">Visit</a>
     </div>
 
   </div><!-- row 2-->

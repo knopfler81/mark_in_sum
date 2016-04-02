@@ -29,7 +29,7 @@
       <!-- Collect the nav links, forms, and other content for toggling -->
       <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
         <ul class="nav navbar-nav">
-          <li><a href="/index.php">Mark in Summer Long Ago</a></li>
+          <li><a href="http://www.markinsummerlongago.com/">Mark in Summer Long Ago</a></li>
           <li><a href="/concerts.php">Concerts <span class="sr-only">(current)</span></a></li>
           <li><a href="/otherevents.php">Other Events</a></li>
           <li class="dropdown">

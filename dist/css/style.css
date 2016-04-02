@@ -1,0 +1,233 @@
+ .navbar-inverse {
+  background-color: #e3181b;
+ }
+
+ .banner {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  height: 600px;
+  position: relative;
+}
+
+
+.banner_title h1{
+  color: #fff;
+  float:right;
+  margin-right: 50px;
+}
+
+.sections_concerts h1 {
+  color:#e3181b;
+}
+
+.sections_calendars h1 {
+  color:#e3181b;
+}
+
+.banner_title h2{
+  font-size: 40px;
+  color:#B8B8B8;
+  float:right;
+  margin-top: 80px;
+  margin-right:-260px;
+}
+
+
+.navbar-inverse .navbar-nav>li>a {
+  color: #fff;
+}
+#title {
+  color: #fff;
+  float: right;
+  margin-right: 30px;
+}
+/* ALL SECTIONS*/
+.sections {
+  background: #fff;
+}
+
+.sections:nth-of-type(even) {
+  background: #ecf0f1;
+}
+
+.sections_concerts {
+  background: #fff;
+}
+
+.sections_concerts img{
+  width:180px;
+  height: auto;
+  border-radius: 5px; 
+}
+.sections_calendars img{
+  width:180px;
+  height: auto;
+  border-radius: 5px; 
+}
+
+.sections_events img{
+  width:180px;
+  height: auto;
+  border-radius: 5px; 
+}
+.sections_concerts:nth-of-type(even) {
+  background: #ecf0f1;
+}
+
+.cf:before,
+.cf:after {
+  content: " ";
+  display: table;
+}
+
+.cf:after {
+  clear: both;
+}
+
+.sections {
+ padding: 50px;
+}
+
+.under_sections {
+  padding-top:  20px;
+  padding-bottom: 10px;
+  padding-left: 80px;
+  padding-right: 80px;
+  text-align:justify;   
+}
+
+.under_sections img {
+  padding-top: 10px;
+  text-align: center;
+  width: 270px;
+
+}
+
+.sections h3 {
+  text-align: center;
+
+}
+
+.sections_concerts {
+  padding:  40px 100px 40px 100px;
+}
+.sections_calendars {
+  padding:  40px 100px 40px 100px;
+}
+
+.sections_events {
+  padding:  40px 100px 40px 100px;
+}
+/* ALL SECTIONS END*/
+
+#reviews {
+  margin-top: 550px;
+  padding: 50px;
+  margin-right: 50px;
+  margin-left: 50px;
+}
+#diapo_head h2 {
+  color: #e3181b;
+  text-align: center;
+}
+
+.forum_icon,
+.mk_icon, 
+.gf_icon {
+  width:200px
+}
+.sections_calendars .btn-primary {
+  background: #e3181b;
+  border:2px solid #fff;
+  border-radius: 10px;
+  margin-top: 5px;
+  display: inline-block;
+  text-align: center;
+}
+.sections_concerts .btn-primary {
+  background: #e3181b;
+  border:2px solid #fff;
+  border-radius: 10px;
+  margin-top: 5px;
+  display: inline-block;
+
+}
+
+.sections_events .btn-primary {
+  background: #e3181b;
+  border:2px solid #fff;
+  border-radius: 10px;
+  margin-top: 5px;
+  display: inline-block;
+
+}
+
+.under_sections .btn-primary {
+  background: #e3181b;
+  border:2px solid #fff;
+  margin-left: 12px;
+  border-radius: 10px;
+  margin-top: 10px;
+  width:150px;
+}
+
+.sections_concerts h3 {
+  font-size: 25px;
+}
+
+.sections_concerts h4 {
+  font-size: 15px;
+  font-style: italic;
+}
+
+.sections_calendars h3 {
+  font-size: 25px;
+}
+
+.sections_calendars h4 {
+  font-size: 15px;
+  font-style: italic;
+}
+
+a {
+  color: #fff;
+}
+.btn-primary {
+  background: #e3181b;
+
+}
+
+/* Arrow for concerts */
+.arrow-left {
+  margin-top: 40px;
+  margin-left: 20px;
+}
+.middle {
+
+  margin-top: 40px;
+  background: gray;
+  color: white;
+  margin-top: 40px;
+}
+
+.arrow-right {
+  margin-top: 40px;
+}
+
+footer {
+  height: 70px;
+  background-color: #e3181b;
+  text-align:  center;
+}
+
+footer h5 {
+  color:white;
+  padding-top: 30px;
+}
+
+.anr a {
+
+  color: #e3181b;
+}
